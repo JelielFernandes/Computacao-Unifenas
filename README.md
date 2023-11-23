@@ -1,4 +1,4 @@
-# Atividades de Ciência da Computação na UNIFENAS
+# Ciência da Computação UNIFENAS
 
 Este repositório serve como um registro das atividades e projetos realizados ao longo do curso de Ciência da Computação na UNIFENAS.
 
