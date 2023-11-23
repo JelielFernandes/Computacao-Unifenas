@@ -4,6 +4,8 @@ Este repositório serve como um registro das atividades e projetos realizados ao
 
 ## Laboratório de Programação Estruturada
 - [Atividade 1](./LaboratorioProgramacaoEstruturada/atividade1)
+- [Projeto-Unifenas](https://github.com/JelielFernandes/Projeto-Unifenas)
+
 - ...
 
 ## Estrutura de Dados
