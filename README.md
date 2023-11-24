@@ -1,8 +1,8 @@
 # Ciência da Computação UNIFENAS
 
-<p align="right">
-  <img src="IMAGES/UNIFENAS.png" alt="Simple-Nacional" width="300" height="150">
-</p>
+
+  <img src="IMAGES/UNIFENASLOGO.png" alt="UNIFENAS" width="400" height="100">
+
 
 
 Este repositório serve como um registro das atividades e projetos realizados ao longo do curso de Ciência da Computação na UNIFENAS.
