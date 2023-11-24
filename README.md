@@ -1,5 +1,10 @@
 # Ciência da Computação UNIFENAS
 
+<p align="right">
+  <img src="IMAGES/UNIFENAS.png" alt="Simple-Nacional" width="300" height="150">
+</p>
+
+
 Este repositório serve como um registro das atividades e projetos realizados ao longo do curso de Ciência da Computação na UNIFENAS.
 
 ## Laboratório de Programação Estruturada
